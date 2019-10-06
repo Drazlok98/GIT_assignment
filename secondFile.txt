@@ -1,3 +1,4 @@
 This is the initial contents
 of the second file that comprises userB making changes
+of the second file that comprises user A making other changes
 our most excellent project.
