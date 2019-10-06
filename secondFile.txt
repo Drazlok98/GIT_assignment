@@ -1,3 +1,3 @@
 This is the initial contents
-of the second file that comprises
+of the second file that comprises user A making other changes
 our most excellent project.
